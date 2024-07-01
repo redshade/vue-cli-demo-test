@@ -1,6 +1,6 @@
 # hello-world
 
-## Project setup
+## 项目启动
 ```
 yarn install
 ```
